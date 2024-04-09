@@ -1451,6 +1451,16 @@ input, select, textarea {
 	color: #E7B1A0;
 }
 
+/* Link back to Work page from Project page */
+
+#project a:link {
+	color: #777777;
+}
+
+#project a:hover {
+	color: #E7B1A0;
+}
+
 /* Table */
 
 	table {
