@@ -1,5 +1,5 @@
 A Work in progress!
-I've taken the [Astral](https://html5up.net/astral) HTML website template from [HTML5Up](https://html5up.net/) and, using skills acquired through the School of Code, I've amended the HTML.
+I've taken the Astral HTML website template from HTML5Up (https://html5up.net/astral) and, using skills acquired through the School of Code, I've amended the HTML.
 I have:
 - removed the forward arrow from the "Home" page.
 - removed the "Twitter" icon and added "LinkedIn" and "GitHub". When clicked, these will now open in a new tab.
